@@ -1,0 +1,47 @@
+.container {
+  background-color: #ffd569;
+  height: 100%;
+  width: 100%;
+  padding: 30px;
+}
+
+.card {
+  background-color: #ffffff;
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+
+.heading {
+  font-family: Roboto;
+  font-size: 40px;
+  color: black;
+}
+
+.btn {
+  background-color: #007bff;
+  color: white;
+  border-width: 0px;
+  border-radius: 5px;
+  height: 36px;
+  margin-left: 200px;
+}
+
+.count {
+  color: #ffd569;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.image {
+  height: 400px;
+  width: 400px;
+  margin-left: 50px;
+}
